@@ -1,0 +1,17 @@
+p{
+    font-size: 1em;
+}
+main{ 
+font-size: 15px;
+}
+body{
+    background-color: blueviolet;
+    color:azure;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 50;
+    text-align: center;
+    margin:0rem;
+    padding: 25rem;
+}
+h2
+{color: aliceblue;}
