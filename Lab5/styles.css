@@ -61,7 +61,8 @@ article>img{
 article>.image-only{
     float: none;
     margin: 0;
-    width: 100%;
+    width: 75%;
+
 }
 body>FOOTER{
     background-color: #275218;

@@ -1,0 +1,19 @@
+header{
+    background-image: url(Images/download.jpg);
+    background-repeat: repeat;
+    background-position: top;
+    background-size: 5rem;
+}
+h1{
+    background-color: white;
+    width: 35rem;
+    font-size: 250%;
+}
+nav{
+    background-color: white;
+    width: 15rem;
+    font-size: 100%;
+}
+iframe:hover{
+border:5rem solid orange;
+}
