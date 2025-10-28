@@ -51,7 +51,7 @@ margin: .5REM 0;
     padding: 10rem 0 10rem 4rem;
 text-shadow: 2px 2px 2px #0000008f;
 }
-gallery h2{
+.gallery h2{
 background-color:rgb(245, 245, 245) ;
 color: rgb(15, 15, 46);
 padding: 2rem 4rem;
@@ -67,6 +67,9 @@ padding: 2rem 4rem;
     .about-me h2{
     flex-basis: 40%;
     background-position: center;
+    }
+    .about-me{
+        display: flex;
     }
     .about-me div{
         flex-basis: 50%;
