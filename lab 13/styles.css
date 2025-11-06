@@ -11,7 +11,7 @@ tr:nth-child(even){
     background-color: #ffffe2;
 }
 tr:nth-child(odd){
-    background color #e0e0cb
+    background-color: #e0e0cb;;
 }
 td,th{
     padding: .5rem;
