@@ -23,8 +23,8 @@ body{
     }
     .headline{
         position: relative;
-        width:calc(100vm-1rem)
-        height: 80vh
+        width:calc(100vm-1rem);
+        height: 80vh;
         overflow:hidden;
         padding: 0;
     }
